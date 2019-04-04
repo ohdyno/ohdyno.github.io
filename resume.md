@@ -1,6 +1,4 @@
----
-title: Resume
----
+# Resume
 
 ## Xing Zhou
 xing (at) xingzhou.me
