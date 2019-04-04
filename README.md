@@ -1,2 +1,2 @@
-# Xing Zhou's Website
+# Xing Zhou
 Welcome!
