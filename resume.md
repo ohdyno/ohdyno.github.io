@@ -4,9 +4,11 @@
 xing (at) xingzhou.me
 
 ## Experience
-- **Integral Software Inc.** - Software Architect / Engineering Manager
-- **Pivotal Labs** - Software Engineer Consultant
-- **Amazon.com** - Software Development Engineer
+**[Integral Software Inc.](https://integral.io)** - Software Architect / Engineering Manager
+
+**[Pivotal Labs](https://pivotal.io/labs)** - Software Engineer Consultant
+
+**[Amazon.com](https://amazon.com/)** - Software Development Engineer
 
 ## Education
-**Carnegie Mellon University**, Bachelor of Science in Computer Science
+**[Carnegie Mellon University](https://scs.cmu.edu/)**, Bachelor of Science in Computer Science
