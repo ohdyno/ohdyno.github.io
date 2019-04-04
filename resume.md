@@ -1,4 +1,6 @@
-# Xing Zhou
+# Resume
+
+## Xing Zhou
 xing (at) xingzhou.me
 
 ## Experience
