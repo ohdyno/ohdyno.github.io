@@ -1,5 +1,5 @@
 # Xing Zhou
-<xing@xingzhou.me>
+xing (at) xingzhou.me
 
 ## Experience
 - **Integral Software Inc.** - Software Architect / Engineering Manager
