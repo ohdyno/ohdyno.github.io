@@ -1,9 +1,7 @@
 <ul>
     {% for link in site.social-links %}
-        <li>
-          <a href="{{ link.url }}">
-            <span>{{ link.name | upcase }}</span>
-          </a>
-        </li>
+    <li>
+        <a href="{{ link.url }}">{{ link.name | upcase }}</a>
+    </li>
     {% endfor %}
 </ul>
