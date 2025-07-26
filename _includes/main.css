@@ -7,6 +7,10 @@ body {
     right: 0;
     left: 0;
     margin: 0;
+    text-shadow: 3px 3px 0 #000,
+    -3px 3px 0 #000,
+    -3px -3px 0 #000,
+    3px -3px 0 #000;
 }
 
 #fullscreen {
@@ -58,8 +62,6 @@ ul {
 }
 
 li {
-    border-radius: 100%;
-    border: 2px transparent;
     color: white;
     margin: 8px;
     display: inline-block;
@@ -74,7 +76,6 @@ li:hover {
     -webkit-transition: 500ms;
     -moz-transition: 500ms;
     transition: 500ms;
-    text-decoration: none;
     background-color: rgba(0, 0, 0, 0.25);
 }
 
@@ -82,7 +83,6 @@ a {
     color: white;
     padding: 15px;
     text-decoration: none;
-    text-shadow: 1px 1px 2px gray;
 }
 
 @media (max-width: 450px) {
