@@ -72,7 +72,7 @@ a {
     height: 65px;
     background-color: inherit;
     transition: background-color 500ms,
-    border 500ms;
+    border 550ms;
 }
 
 a:hover {
