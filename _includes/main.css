@@ -59,16 +59,12 @@ ul {
 }
 
 li {
-    color: white;
     margin: 8px;
     display: inline-block;
     list-style: none;
-    width: 65px;
-    height: 65px;
 }
 
 li:hover {
-    color: white;
     text-decoration: none;
     -webkit-transition: 500ms;
     -moz-transition: 500ms;
@@ -80,6 +76,8 @@ a {
     color: white;
     padding: 15px;
     text-decoration: none;
+    width: 65px;
+    height: 65px;
 }
 
 @media (max-width: 450px) {
