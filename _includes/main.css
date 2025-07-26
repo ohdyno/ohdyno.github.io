@@ -68,9 +68,8 @@ a {
     padding: 1em;
     margin: 1px;
     text-decoration: none;
-    width: 65px;
-    height: 65px;
     background-color: inherit;
+    border: transparent solid 1px;
     transition: background-color 500ms,
     border 550ms;
 }
