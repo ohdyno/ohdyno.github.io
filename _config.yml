@@ -1,3 +1,15 @@
-theme: jekyll-theme-midnight
-title: Xing Zhou
-description: loving and appreciating life
+# Title and tag line
+title: 'Xing Zhou'
+description: 'Making the most of life'
+
+# Images
+avatar: 'avatar.png'
+background: 'background.png'
+
+social-links:
+  - name: cv
+    url: '/cv/cv.html'
+  - name: cv.pdf
+    url: '/cv/cv.pdf'
+  - name: blog
+    url: 'https://blog.xingzhou.me/'
