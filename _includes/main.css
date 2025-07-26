@@ -85,6 +85,7 @@ a:hover {
 @media (max-width: 450px) {
     li {
         display: block;
+        margin: 1.5em;
     }
 
     .content {
