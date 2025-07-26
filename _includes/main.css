@@ -20,7 +20,6 @@ body {
     display: block;
     position: fixed;
     z-index: -999;
-    opacity: 0.8;
 }
 
 #avatar {
